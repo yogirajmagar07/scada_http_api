@@ -1,2 +1,5 @@
-Flask
-mysql-connector-python
+# Flask web framework
+Flask==2.3.3
+
+# Official MySQL driver from Oracle
+mysql-connector-python==8.3.0
